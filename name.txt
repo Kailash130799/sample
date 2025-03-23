@@ -1,1 +1,2 @@
-Hi this git sample learning part
+Hi this git sample learning part.
+We gonna learn something new.
