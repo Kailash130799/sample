@@ -1,3 +1,7 @@
 Hi this git sample learning part.
 We gonna learn something new.
+<<<<<<< HEAD
 this kailash im the trainer here
+=======
+Im new to here to teach you
+>>>>>>> 0c7a969e9568ae320ae477ab27d0622b24cbaa8e
